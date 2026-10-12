@@ -188,3 +188,11 @@ Compiled and maintained from upstream [haidrrrry/claude-remotion-skill](https://
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
