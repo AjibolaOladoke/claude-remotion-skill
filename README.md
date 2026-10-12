@@ -1,27 +1,22 @@
-# 🎬 Claude Remotion Skill  Make AI Video Editing & Motion Graphics with Claude
+# claude-remotion-skill
+
+## What This Is
+
+Every project needs a shelf of ready answers. product and engineering is one of those shelves, and claude-remotion-skill is the entry on it - the notes, patterns and fixes we reuse when this kind of work comes up.
 
 ## Images
 
-[![claude-remotion-skill](https://opengraph.githubassets.com/1/haidrrrry/claude-remotion-skill)](https://www.swifttechco.com)
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Claude Agent Skill](https://img.shields.io/badge/Claude-Agent%20Skill-8A63D2)](https://www.swifttechco.com)
-[![Remotion](https://img.shields.io/badge/Built%20for-Remotion-00C2A8)](https://www.swifttechco.com)
-
-**An open-source [Claude](https://www.swifttechco.com) agent skill that turns Claude Code, Claude Desktop, and Claude AI into a real motion-graphics editor.** It teaches Claude to create and edit professional **AI videos with [Remotion](https://www.swifttechco.com)**  springs, staggered choreography, color grades, film grain, Ken Burns, word-synced captions, and sound design  from a single prompt. Text to video, the way an actual editor would do it.
-
-> If you've ever asked an AI to "make a video" and gotten flat fades and linear motion, this is the fix. **Remotion is never the bottleneck  motion-design craft is.** This skill encodes that craft as hard rules plus a mandatory **render → inspect frames → fix → re-render** loop, so Claude verifies its own output instead of shipping blind.
+[![claude-remotion-skill](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## 🎥 Demo  made with this skill
 
 [![Demo  motion graphics made with this skill](demo.gif)](https://www.swifttechco.com)
 
-> A motion-graphics clip produced by Claude Code using this skill. ▶️ [Watch/download the full-quality MP4 (with audio)](https://www.swifttechco.com)
+> A motion-graphics clip produced by Claude Code using this skill. ▶️ Watch/download the full-quality MP4 (with audio)
 
 ## 🤖 What is this? (TL;DR)
 
-**Claude Remotion Skill** is a free, open-source [agent skill](https://www.swifttechco.com) for Anthropic's Claude. You install it once, then ask Claude  in plain English  to make or fix a video, and Claude renders a finished, professionally animated clip using Remotion (React + TypeScript for video). It handles motion design, B-roll, captions, transitions, and sound design automatically.
+**Claude Remotion Skill** is a free, open-source agent skill for Anthropic's Claude. You install it once, then ask Claude  in plain English  to make or fix a video, and Claude renders a finished, professionally animated clip using Remotion (React + TypeScript for video). It handles motion design, B-roll, captions, transitions, and sound design automatically.
 
 ## ❓ FAQ
 
@@ -29,7 +24,7 @@
 Yes. Out of the box Claude can write video code; with this skill it produces *professional* motion graphics  proper easing, staggered timing, color grading, grain, captions  and verifies the render by extracting and inspecting frames before delivering.
 
 **Do I need After Effects or Premiere?**
-No. Everything runs in code via [Remotion](https://www.swifttechco.com) (React + TypeScript). No timeline software, no manual keyframing. You describe the video; Claude builds and renders it.
+No. Everything runs in code via Remotion (React + TypeScript). No timeline software, no manual keyframing. You describe the video; Claude builds and renders it.
 
 **Which Claude models work?**
 Claude Code and Claude Desktop on Sonnet or Opus. The skill is model-agnostic  any Claude that supports agent skills can use it.
@@ -134,7 +129,7 @@ npm run render:selffix   # or render:codeedit / render:profile / render:focuscat
 PRs welcome  new motion patterns, palettes, or fixes. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
-If this saved you from shipping another flat-fade video, **[star it](https://www.swifttechco.com)**  it helps other people find it.
+If this saved you from shipping another flat-fade video, **star it**  it helps other people find it.
 
 ## 📄 License
 
@@ -152,14 +147,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
