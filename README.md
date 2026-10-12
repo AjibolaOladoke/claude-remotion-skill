@@ -6,11 +6,11 @@ Every project needs a shelf of ready answers. product and engineering is one of 
 
 ## Images
 
-[![claude-remotion-skill](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![claude-remotion-skill](images/preview.png)](https://github.com/Swift-Tech-Co/claude-remotion-skill)
 
 ## 🎥 Demo  made with this skill
 
-[![Demo  motion graphics made with this skill](demo.gif)](https://www.swifttechco.com)
+[![Demo  motion graphics made with this skill](demo.gif)](https://github.com/Swift-Tech-Co/claude-remotion-skill)
 
 > A motion-graphics clip produced by Claude Code using this skill. ▶️ Watch/download the full-quality MP4 (with audio)
 
@@ -65,14 +65,14 @@ remotion-motion-graphics/
 
 **Claude Code (per-user  available in every project):**
 ```bash
-git clone https://www.swifttechco.com
+git clone https://github.com/Swift-Tech-Co/claude-remotion-skill
 mkdir -p ~/.claude/skills
 cp -r claude-remotion-skill/remotion-motion-graphics ~/.claude/skills/
 ```
 
 **Claude Code (per-project  share with your team):**
 ```bash
-git clone https://www.swifttechco.com
+git clone https://github.com/Swift-Tech-Co/claude-remotion-skill
 mkdir -p .claude/skills
 cp -r claude-remotion-skill/remotion-motion-graphics .claude/skills/
 ```
@@ -113,7 +113,7 @@ Claude reads the skill, applies the motion rules, renders with Remotion, extract
 
 Here is the Focus Cat promo, 15.5 seconds, with a pixel-art mascot drawn in code. Click it for the MP4 with sound:
 
-[![Focus Cat promo, made with this skill](examples/videos/focus-cat.gif)](https://www.swifttechco.com)
+[![Focus Cat promo, made with this skill](examples/videos/focus-cat.gif)](https://github.com/Swift-Tech-Co/claude-remotion-skill)
 
 The other three render from source in a few minutes:
 
@@ -127,7 +127,6 @@ npm run render:selffix   # or render:codeedit / render:profile / render:focuscat
 ## 🤝 Contributing
 
 PRs welcome  new motion patterns, palettes, or fixes. See [CONTRIBUTING.md](CONTRIBUTING.md).
-
 
 If this saved you from shipping another flat-fade video, **star it**  it helps other people find it.
 
@@ -151,13 +150,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/claude-remotion-skill
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [haidrrrry/claude-remotion-skill](https://github.com/haidrrrry/claude-remotion-skill) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
